@@ -13,12 +13,12 @@ activities.
 
 ## Traceability Matrix
 
-| Quality Aspect                  | Related GitHub Issues                  | Documents / Section Link                     |
-|---------------------------------|----------------------------------------|----------------------------------------------|
-| **Defects & Bugs** (Part C style) | #2, #3, #4, #5, #6, #7, #8, #10       | [Defect Analysis](#defect-analysis)          |
-| **Security Issues**             | #2, #3, #4, #8                        | [Security](#security) / Risk Management      |
-| **Performance & Battery**       | #5                                    | [Performance Efficiency](#performance-efficiency) |
-| **Usability / UI Issues**       | #7                                    | [Usability](#usability)                      |
-| **Documentation & Improvements**| #9, #10                               | [CMMI Plan](#cmmi-plan) / Process Improvements |
-| **Update & Reliability**        | #6                                    | [Reliability](#reliability)                  |
+| Quality Aspect                     | GitHub Issues                          | Reference                                    |
+|------------------------------------|----------------------------------------|----------------------------------------------|
+| Defects / Bugs                     | #2 #3 #4 #5 #6 #7 #8 #10              | [Defect Analysis](#defect-analysis)          |
+| Security & Privacy                 | #2 #3 #4 #8                           | [Risk Management](#risk-management)          |
+| Performance / Battery              | #5                                    | [Performance Efficiency](#performance-efficiency) |
+| Usability / UI                     | #7                                    | [Usability](#usability)                      |
+| OTA Update Reliability             | #6                                    | [Reliability](#reliability)                  |
+| Documentation & Improvements       | #9 #10                                | [CMMI Plan](#cmmi-plan)                      |
 
