@@ -8,7 +8,7 @@ stable performance across devices, and secure user data.
 
 All defects, risks, and improvement activities are captured with the help of GitHub Issues and undergo a project  
 workflow in terms of project board (To Do → In Progress → Review → Done). This is a tool that replicates a formal  
-quality governance process, in that it provides traceability between quality attributes, defects and risk-mitigating  
+quality governance process, in that it provides traceability between quality attributes, defects and risk-mitigating 
 activities.
 
 ## Traceability Matrix
