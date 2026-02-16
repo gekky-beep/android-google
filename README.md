@@ -13,11 +13,12 @@ activities.
 
 ## Traceability Matrix
 
-| Quality Attribute     | Related Issues          |
-|-----------------------|-------------------------|
-| Security              | #2, #3, #8             |
-| Performance Efficiency| #5                     |
-| Reliability           | #6                     |
-| Usability             | #7                     |
-| Maintainability       | #9, #10                |
-
+| Quality Aspect                  | Related GitHub Issues                  | Documents / Section Link                     |
+|---------------------------------|----------------------------------------|----------------------------------------------|
+| **Defects & Bugs** (Part C style) | #2, #3, #4, #5, #6, #7, #8, #10       | [Defect Analysis](#defect-analysis)          |
+| **Security Issues**             | #2, #3, #4, #8                        | [Security](#security) / Risk Management      |
+| **Performance & Battery**       | #5                                    | [Performance Efficiency](#performance-efficiency) |
+| **Usability / UI Issues**       | #7                                    | [Usability](#usability)                      |
+| **Documentation & Improvements**| #9, #10                               | [CMMI Plan](#cmmi-plan) / Process Improvements |
+| **Update & Reliability**        | #6                                    | [Reliability](#reliability)                  |
+| **Other / Recent**              | #11                                   | General quality tracking                     |
