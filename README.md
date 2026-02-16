@@ -21,4 +21,4 @@ activities.
 | **Usability / UI Issues**       | #7                                    | [Usability](#usability)                      |
 | **Documentation & Improvements**| #9, #10                               | [CMMI Plan](#cmmi-plan) / Process Improvements |
 | **Update & Reliability**        | #6                                    | [Reliability](#reliability)                  |
-| **Other / Recent**              | #11                                   | General quality tracking                     |
+
